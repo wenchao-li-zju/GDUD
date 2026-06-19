@@ -1,0 +1,4 @@
+experiment,family,source,language,tokens,upos,uas,las,upos_prediction_file,parse_prediction_file
+full_source_transfer,Tungusic,Nanai,Negidal,281,43.42,61.57,38.43,experiments_0616/predictions_upos/full_source_transfer/Nanai_to_Negidal/test_pred.conllu,experiments_0616/predictions/full_source_transfer/Nanai_to_Negidal/test_pred.conllu
+full_source_transfer,Tungusic,Nanai,Oroch,345,35.94,80.00,49.86,experiments_0616/predictions_upos/full_source_transfer/Nanai_to_Oroch/test_pred.conllu,experiments_0616/predictions/full_source_transfer/Nanai_to_Oroch/test_pred.conllu
+full_source_transfer,Tungusic,Nanai,Ulch,231,33.33,76.62,58.44,experiments_0616/predictions_upos/full_source_transfer/Nanai_to_Ulch/test_pred.conllu,experiments_0616/predictions/full_source_transfer/Nanai_to_Ulch/test_pred.conllu

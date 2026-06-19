@@ -1,0 +1,11 @@
+family,fold,languages,train_sentences,dev_sentences,train_tokens,dev_tokens
+Mongolic,0,Daur Kalmyk Khalkha Ordos Tu,315,33,1788,210
+Mongolic,1,Daur Kalmyk Khalkha Ordos Tu,315,33,1806,216
+Mongolic,2,Daur Kalmyk Khalkha Ordos Tu,317,33,1813,197
+Mongolic,3,Daur Kalmyk Khalkha Ordos Tu,318,33,1846,170
+Mongolic,4,Daur Kalmyk Khalkha Ordos Tu,318,33,1827,195
+Tungusic,0,Even Evenki Manchu Nanai Negidal Oroch Udihe Ulch,455,47,2323,221
+Tungusic,1,Even Evenki Manchu Nanai Negidal Oroch Udihe Ulch,456,47,2305,225
+Tungusic,2,Even Evenki Manchu Nanai Negidal Oroch Udihe Ulch,456,48,2295,263
+Tungusic,3,Even Evenki Manchu Nanai Negidal Oroch Udihe Ulch,458,48,2307,252
+Tungusic,4,Even Evenki Manchu Nanai Negidal Oroch Udihe Ulch,461,48,2337,260
