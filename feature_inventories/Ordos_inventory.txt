@@ -1,0 +1,103 @@
+# Feature and relation inventory: Ordos
+# Source file: Ordos_treebank.conllu
+# Tokens: 297
+
+## UPOS tags
+  ADJ	14
+  ADP	4
+  ADV	5
+  DET	9
+  NOUN	93
+  NUM	14
+  PART	1
+  PRON	35
+  PROPN	6
+  PUNCT	17
+  SCONJ	1
+  VERB	98
+
+## Morphological features (FEATS): feature=value (count)
+### Universal features
+  Aspect=Hab	1
+  Aspect=Prog	3
+  Case=Abl	9
+  Case=Acc	23
+  Case=All	3
+  Case=Com	4
+  Case=Dat	17
+  Case=Gen	7
+  Case=Ins	3
+  Case=Nom	60
+  Degree=Pos	11
+  Mood=Des	1
+  Mood=Fut	2
+  Mood=Imp	5
+  Mood=Ind	31
+  Mood=Opt	5
+  NumType=Card	14
+  Number=Pl	2
+  Number=Plur	15
+  Number=Plur,Sing	1
+  Number=Sing	165
+  Number[psor]=1	1
+  Number[psor]=Plur	2
+  Number[psor]=Sing	6
+  Person=1	37
+  Person=2	14
+  Person=3	37
+  Person[psor]=1	3
+  Person[psor]=2	1
+  Person[psor]=3	5
+  Polarity=Neg	13
+  Poss=Yes	1
+  PronType=Dem	8
+  PronType=Ind	1
+  Tense=Fut	2
+  Tense=Past	36
+  Tense=Pres	36
+  VerbForm=Conv	13
+  VerbForm=Fin	29
+  VerbForm=Ind	2
+  VerbForm=Inf	16
+  VerbForm=Part	12
+  Voice=Pass	1
+  Voice=Rcp	1
+
+### Language-specific features
+  Deriv=Collective	2
+  Deriv=Iterative	1
+  Deriv=Multiplicative	2
+  Focus=Only	1
+
+## Dependency relations (DEPREL): relation (count)
+### Core relations
+  acl	23
+  advcl	3
+  advmod	6
+  amod	10
+  appos	1
+  case	3
+  compound	6
+  conj	4
+  cop	2
+  det	8
+  discourse	1
+  iobj	5
+  mark	1
+  nsubj	41
+  nummod	9
+  obj	24
+  obl	20
+  punct	17
+  root	85
+  xcomp	9
+
+### Subtype relations
+  det:poss	1
+  nmod:poss	5
+  nmod:tmod	1
+  obl:agent	1
+  obl:comit	1
+  obl:instr	2
+  obl:than	3
+  obl:tmod	5

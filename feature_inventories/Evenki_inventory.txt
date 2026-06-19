@@ -1,0 +1,86 @@
+# Feature and relation inventory: Evenki
+# Source file: Evenki_treebank.conllu
+# Tokens: 261
+
+## UPOS tags
+  ADJ	4
+  ADP	1
+  ADV	21
+  DET	16
+  NOUN	50
+  NUM	7
+  PART	7
+  PRON	17
+  PROPN	4
+  PRT	1
+  PUNCT	55
+  VERB	78
+
+## Morphological features (FEATS): feature=value (count)
+### Universal features
+  Aspect=Ant	16
+  Aspect=Dur	3
+  Aspect=Hab	4
+  Aspect=Imp	1
+  Aspect=Inch	1
+  Aspect=Sim	4
+  Case=Abl	1
+  Case=Acc	15
+  Case=All	2
+  Case=Dat	1
+  Case=Dat,Loc	2
+  Case=Loc	11
+  Case=Nom	14
+  Definite=Indef	1
+  Degree=Pos	1
+  Mood=Cond	2
+  Mood=Imp	1
+  Mood=Impv	1
+  Mood=Purp	1
+  NumType=Card	2
+  Number=Plur	17
+  Number=Sing	66
+  Person=1	18
+  Person=2	1
+  Person=3	46
+  Polarity=Neg	4
+  Poss=Yes	2
+  PronType=Dem	12
+  Reflex=Yes	8
+  Tense=Aor	3
+  Tense=Fut	1
+  Tense=NonPast	25
+  Tense=Past	17
+  VerbForm=Conv	24
+  VerbForm=Deriv	1
+  VerbForm=FV	1
+  VerbForm=Fin	3
+  VerbForm=Incep	2
+  VerbForm=Ingr	3
+  VerbForm=Part	5
+  VerbForm=RA	1
+
+### Language-specific features
+  Distal=Yes	1
+
+## Dependency relations (DEPREL): relation (count)
+### Core relations
+  acl	1
+  advcl	26
+  advmod	22
+  amod	6
+  conj	14
+  det	16
+  discourse	4
+  nmod	1
+  nsubj	33
+  nummod	5
+  obj	15
+  obl	21
+  parataxis	1
+  punct	55
+  root	39
+  vocative	2
+
+### Subtype relations
+  (none)

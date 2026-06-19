@@ -1,0 +1,79 @@
+# Feature and relation inventory: Ulch
+# Source file: Ulch_treebank.conllu
+# Tokens: 231
+
+## UPOS tags
+  ADJ	7
+  ADV	6
+  DET	2
+  INTJ	3
+  NOUN	79
+  PRON	38
+  PROPN	1
+  PUNCT	8
+  VERB	87
+
+## Morphological features (FEATS): feature=value (count)
+### Universal features
+  Aspect=Iter	1
+  Case=Acc	29
+  Case=Dat	1
+  Case=Gen	11
+  Case=Loc	15
+  Degree=Cmp	1
+  Degree=Pos	2
+  Mood=Cond	1
+  Mood=Imp	6
+  Mood=Int	6
+  Number=Pl	18
+  Number=Plur	6
+  Number=Sing	91
+  Number[psor]=Sing	1
+  Person=1	52
+  Person=2	28
+  Person=3	26
+  Person[psor]=1	1
+  Polarity=Neg	7
+  Poss=Yes	1
+  PronType=Dem	2
+  PronType=Int	1
+  PronType=Prs	2
+  Reflex=Yes	1
+  Tense=Fut	5
+  Tense=Past	18
+  Tense=Pres	41
+  Tense=Pst	2
+  VerbForm=Fin	3
+  VerbForm=Inf	3
+  VerbForm=Part	9
+  VerbForm=Vnoun	4
+  Voice=Cau	2
+
+### Language-specific features
+  ConvType=After	1
+  ConvType=Cond	2
+  Deixis=Dist	1
+  Purpose=Yes	1
+  Role=Ben	1
+
+## Dependency relations (DEPREL): relation (count)
+### Core relations
+  acl	2
+  advcl	8
+  advmod	4
+  amod	4
+  ccomp	3
+  det	2
+  discourse	2
+  nmod	1
+  nsubj	43
+  obj	27
+  obl	25
+  parataxis	2
+  punct	8
+  root	93
+  xcomp	1
+
+### Subtype relations
+  advcl:purpose	1
+  nmod:poss	5

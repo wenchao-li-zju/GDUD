@@ -1,0 +1,99 @@
+# Feature and relation inventory: Tu
+# Source file: Tu_treebank.conllu
+# Tokens: 603
+
+## UPOS tags
+  ADJ	27
+  ADV	34
+  AUX	24
+  CCONJ	3
+  DET	8
+  INTJ	4
+  NOUN	124
+  NUM	49
+  PART	34
+  PRON	111
+  PROPN	3
+  PUNCT	76
+  VERB	106
+
+## Morphological features (FEATS): feature=value (count)
+### Universal features
+  Aspect=Hab	3
+  Aspect=Imp	31
+  Aspect=Perf	1
+  Case=Abl	10
+  Case=Acc	11
+  Case=All	1
+  Case=Com	1
+  Case=Dat	16
+  Case=Gen	18
+  Case=Ins	1
+  Case=Ref	5
+  Case=Sig	4
+  Degree=Cmp	2
+  Degree=Pos	20
+  Degree=Sup	4
+  Gender=Fem	2
+  Mood=Imp	2
+  Mood=Ind	26
+  Mood=Int	1
+  NumType=Card	49
+  Number=Plur	13
+  Number=Sing	93
+  Person=1	42
+  Person=2	28
+  Person=3	8
+  Polarity=Neg	26
+  Poss=Yes	17
+  PronType=Dem	24
+  PronType=Int	23
+  PronType=Prs	30
+  PronType=Tot	1
+  Tense=Fut	2
+  Tense=Past	9
+  Tense=Pres	28
+  VerbForm=Conv	14
+  VerbForm=Fin	50
+  VerbForm=Inf	2
+  VerbForm=Part	6
+  Voice=Pass	2
+
+### Language-specific features
+  Interrog=Yes	5
+
+## Dependency relations (DEPREL): relation (count)
+### Core relations
+  acl	2
+  advcl	10
+  advmod	46
+  amod	14
+  appos	2
+  aux	10
+  cc	3
+  ccomp	5
+  compound	24
+  conj	25
+  cop	13
+  det	13
+  discourse	22
+  fixed	3
+  iobj	1
+  nmod	3
+  nsubj	89
+  nummod	31
+  obj	25
+  obl	36
+  parataxis	6
+  punct	76
+  root	77
+  xcomp	15
+
+### Subtype relations
+  acl:tmod	1
+  advcl:tmod	1
+  nmod:poss	27
+  obl:cmp	6
+  obl:duration	1
+  obl:extent	6
+  obl:tmod	10

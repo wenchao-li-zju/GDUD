@@ -1,0 +1,105 @@
+# Feature and relation inventory: Khalkha
+# Source file: Khalkha_treebank.conllu
+# Tokens: 472
+
+## UPOS tags
+  ADJ	16
+  ADP	4
+  ADV	7
+  AUX	10
+  DET	21
+  NOUN	125
+  NUM	6
+  PART	11
+  PRON	58
+  PROPN	25
+  PUNCT	62
+  SCONJ	5
+  VERB	122
+
+## Morphological features (FEATS): feature=value (count)
+### Universal features
+  Aspect=Hab	3
+  Aspect=Imp	8
+  Aspect=Mod	1
+  Aspect=Perf	23
+  Aspect=Prog	4
+  Aspect=Succ	1
+  Case=Abl	7
+  Case=Acc	58
+  Case=Com	4
+  Case=Dat	28
+  Case=Gen	8
+  Case=Ins	12
+  Case=Nom	93
+  Case=Term	1
+  Degree=Pos	13
+  Degree=Sup	2
+  Evident=Dir	1
+  Evident=Fh	1
+  Evident=Indir	1
+  Mood=Cnd	1
+  Mood=Ind	7
+  Mood=Int	1
+  NumType=Card	6
+  NumType=Ord	1
+  Number=Plur	4
+  Number=Sing	52
+  Person=1	31
+  Person=2	14
+  Person=3	9
+  Polarity=Neg	7
+  Poss=Yes	6
+  PronType=Dem	21
+  PronType=Int	4
+  PronType=Tot	1
+  Reflex=Yes	17
+  Tense=Fut	12
+  Tense=Past	54
+  Tense=Pres	31
+  VerbForm=Conv	24
+  VerbForm=Fin	34
+  VerbForm=Inf	6
+  VerbForm=Int	2
+  VerbForm=Part	51
+  Voice=Cau	10
+  Voice=Pass	4
+
+### Language-specific features
+  ConvType=Cond	1
+  ConvType=Impf	1
+  ConvType=Perf	1
+  ConvType=Term	1
+  Deriv=ComitativePred	1
+  PartType=Int	2
+  PartType=Quot	3
+
+## Dependency relations (DEPREL): relation (count)
+### Core relations
+  acl	2
+  advcl	32
+  advmod	8
+  amod	7
+  aux	6
+  case	4
+  ccomp	11
+  compound	2
+  csubj	2
+  det	21
+  discourse	10
+  iobj	6
+  mark	8
+  nmod	2
+  nsubj	84
+  nummod	4
+  obj	55
+  obl	34
+  punct	62
+  root	88
+  xcomp	6
+
+### Subtype relations
+  acl:relcl	4
+  nmod:poss	6
+  nsubj:pass	3
+  obl:agent	5

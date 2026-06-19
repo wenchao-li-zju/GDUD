@@ -1,0 +1,74 @@
+# Feature and relation inventory: Oroch
+# Source file: Oroch_treebank.conllu
+# Tokens: 345
+
+## UPOS tags
+  ADJ	15
+  ADV	10
+  INTJ	3
+  NOUN	77
+  PART	9
+  PRON	70
+  PROPN	3
+  PUNCT	82
+  VERB	76
+
+## Morphological features (FEATS): feature=value (count)
+### Universal features
+  Aspect=Hab	1
+  Aspect=Prog	1
+  Case=Acc	15
+  Case=Dat	7
+  Case=Gen	5
+  Case=Ins	2
+  Case=Loc	12
+  Case=Nom	98
+  Degree=Cmp	1
+  Degree=Pos	13
+  Mood=Imp	1
+  Mood=Ind	55
+  Mood=Int	8
+  Number=Plur	14
+  Number=Sing	118
+  Person=1	74
+  Person=2	34
+  Person=3	19
+  Polarity=Neg	9
+  Poss=Yes	3
+  PronType=Int	8
+  PronType=Prs	1
+  PronType=Rcp	2
+  Reflex=Yes	1
+  Tense=Fut	3
+  Tense=Past	13
+  Tense=Pres	47
+  VerbForm=Conv	2
+  VerbForm=Inf	6
+  VerbForm=Part	2
+  VerbForm=Vnoun	1
+  Voice=Rcp	1
+
+### Language-specific features
+  Focus=Yes	12
+
+## Dependency relations (DEPREL): relation (count)
+### Core relations
+  advcl	2
+  advmod	6
+  amod	15
+  appos	1
+  conj	2
+  discourse	6
+  iobj	1
+  nmod	1
+  nsubj	71
+  obj	18
+  obl	16
+  punct	82
+  root	110
+  xcomp	2
+
+### Subtype relations
+  advmod:neg	6
+  nmod:poss	5
+  obl:instr	1

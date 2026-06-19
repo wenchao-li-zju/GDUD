@@ -1,0 +1,101 @@
+# Feature and relation inventory: Manchu
+# Source file: Manchu_treebank.conllu
+# Tokens: 451
+
+## UPOS tags
+  ADJ	22
+  ADP	42
+  ADV	24
+  AUX	2
+  DET	18
+  INTJ	2
+  NOUN	137
+  NUM	24
+  PART	19
+  PRON	28
+  PROPN	27
+  PUNCT	5
+  VERB	101
+
+## Morphological features (FEATS): feature=value (count)
+### Universal features
+  Aspect=Imp	17
+  Aspect=Iter	1
+  Aspect=Perf	9
+  Case=ABL	2
+  Case=Abl	2
+  Case=Acc	18
+  Case=Dat	11
+  Case=Gen	20
+  Case=Loc	7
+  Case=Nom	4
+  Degree=Cmp	2
+  Degree=Pos	12
+  Mood=Cnd	1
+  Mood=Imp	5
+  Mood=Ind	3
+  Mood=Int	5
+  Mood=Opt	1
+  NumType=Card	22
+  Number=Plur	6
+  Number=Sing	25
+  Person=1	12
+  Person=2	12
+  Person=3	6
+  Polarity=Neg	8
+  Polarity=Pos	1
+  Polarity=Proh	1
+  Poss=Yes	1
+  PronType=Dem	12
+  PronType=Ind	2
+  PronType=Int	7
+  PronType=Tot	1
+  Reflex=Yes	1
+  Tense=Fut	1
+  Tense=Past	16
+  Tense=Perf	14
+  Tense=Pres	14
+  VerbForm=Conv	27
+  VerbForm=Fin	57
+  VerbForm=Part	13
+  Voice=Cau	1
+  Voice=Pass	4
+
+### Language-specific features
+  AdvType=Tim	2
+  Nominalizer=Yes	1
+  VerbType=Exist	4
+  VerbType=Stat	1
+
+## Dependency relations (DEPREL): relation (count)
+### Core relations
+  acl	2
+  advcl	22
+  advmod	23
+  amod	19
+  appos	4
+  case	49
+  ccomp	2
+  clf	1
+  compound	8
+  conj	12
+  cop	1
+  csubj	2
+  det	19
+  discourse	9
+  nmod	10
+  nsubj	59
+  nummod	14
+  obj	26
+  obl	49
+  parataxis	4
+  punct	5
+  root	81
+  vocative	1
+  xcomp	3
+
+### Subtype relations
+  compound:prt	1
+  flat:name	5
+  nmod:poss	18
+  obl:tmod	2
