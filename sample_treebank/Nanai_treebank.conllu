@@ -1,0 +1,19 @@
+# sent_id = Nanai_grammar_1
+# text = čawa baa-raa ii-wu-gu-rəə səəŋkurə-ǯi puuŋgiči-mi dəruu-xə-ni Čemana mii pokto-i ele-go-j-du-ja-wa pokto xoldon-do-a-ni ao-raa min-či xukču-xəəri
+# text[eng] = Having found her, he carried her into the winter hut and began fumigating with ledum: “When I tomorrow stand on my path, lie by the path and attack me!”
+1	čawa	čawa	PRON	_	Case=Acc	2	obj	_	_
+2	baa-raa	baa	VERB	_	ConvType=Nsim|VerbForm=Conv	6	advcl	_	_
+3	ii-wu-gu-rəə	ii	VERB	_	ConvType=Nsim|Evident=Rep|VerbForm=Conv|Voice=Cau	6	advcl	_	_
+4	səəŋkurə-ǯi	səəŋkurə	NOUN	_	Case=Ins	6	obl	_	_
+5	puuŋgiči-mi	puuŋgiči	VERB	_	ConvType=Sim|Number=Sing|VerbForm=Conv	6	advcl	_	_
+6	dəruu-xə-ni	dəruu	VERB	_	Number=Sing|Person=3|Tense=Past	0	root	_	_
+7	Čemana	čemana	ADV	_	_	11	advmod	_	_
+8	mii	mii	PRON	_	Number=Sing|Person=1	11	nsubj	_	_
+9	pokto-i	pokto	NOUN	_	Number=Sing|Reflex=Yes	11	obl	_	_
+10	ele-go-j-du-ja-wa	ele	VERB	_	Case=Dat|Evident=Rep|Mood=Ind|Number=Sing|Person=1|Tense=Pres	11	advcl	_	_
+11	pokto	pokto	NOUN	_	_	6	parataxis	_	_
+12	xoldon-do-a-ni	xoldon	NOUN	_	Case=Dat|Number=Sing|Person=3	13	obl	_	_
+13	ao-raa	ao	VERB	_	ConvType=Nsim|VerbForm=Conv	15	advcl	_	_
+14	min-či	min	PRON	_	Case=Dir|Number=Sing|Person=1	15	obj	_	_
+15	xukču-xəəri	xukču	VERB	_	Mood=Imp|Person=2	11	conj	_	_
+

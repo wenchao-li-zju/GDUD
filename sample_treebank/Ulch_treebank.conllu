@@ -1,0 +1,21 @@
+# sent_id = Ulch_grammar_1
+# text = ajačuxá
+# text[eng] = He corrected / she repaired / she mended
+1	ajačuxá	ajaču	VERB	_	Number=Sing|Person=3|Tense=Past	0	root	_	Gloss=fix-PST.3SG
+
+# sent_id = Ulch_grammar_2
+# text = ajaču-xamb’-é
+# text[eng] = (His/my) health condition improved.
+1	ajaču-xamb’-é	ajaču	VERB	_	Person=3|Reflex=Yes|Tense=Past	0	root	_	_
+
+# sent_id = Ulch_grammar_3
+# text = alxá
+# text[eng] = He broke.
+1	alxá	al	VERB	_	Person=3|Tense=Past	0	root	_	_
+
+# sent_id = Ulch_grammar_4
+# text = ambanbaní b
+# text[eng] = mad fellow
+1	ambanbaní	ambanbaní	ADJ	_	_	2	amod	_	_
+2	b	b	NOUN	_	_	0	root	_	_
+

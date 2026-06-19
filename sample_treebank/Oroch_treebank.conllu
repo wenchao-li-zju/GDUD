@@ -1,0 +1,18 @@
+# sent_id = Oroch_grammar_1
+# text = Si mana-ra, bi su-i.
+# text[eng] = If you go, I will drink.
+1	Si	si	PRON	_	Case=Nom|Number=Sing|Person=2	2	nsubj	_	_
+2	mana-ra	mana-	VERB	_	VerbForm=Conv	5	advcl	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	bi	bi	PRON	_	Case=Nom|Number=Sing|Person=1	5	nsubj	_	_
+5	su-i	su-	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = Oroch_grammar_2
+# text = Nuwan-nar bē-lə narə-nar.
+# text[eng] = They see each other.
+1	Nuwan-nar	nuwan	PRON	_	Case=Nom|Number=Plur|Person=3	2	nsubj	_	_
+2	bē-lə	bē-	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	_
+3	narə-nar	narə	PRON	_	Number=Plur|PronType=Rcp	2	obj	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	2	punct	_	_
+

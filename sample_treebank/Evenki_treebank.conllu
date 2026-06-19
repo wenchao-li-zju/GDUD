@@ -1,0 +1,25 @@
+# sent_id = Evenki_grammar_2
+# text = Nonon ịlan dụndəl biŋkitin.
+# text[eng] = Earlier there were three worlds.
+1	Nonon	Nonon	ADV	_	_	4	advmod	_	Gloss=earlier
+2	ịlan	ịlan	NUM	_	NumType=Card	4	nummod	_	Gloss=three.[NOM]
+3	dụndəl	dupndəl	NOUN	_	Case=Nom|Number=Plur	4	nsubj	_	Gloss=earth-PL.[NOM]
+4	biŋkitin	biŋkitin	VERB	_	Distal=Yes|Number=Plur|Person=3|Tense=Past	0	root	_	Gloss=be-PST.DIST-3PL|SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = Evenki_grammar_3
+# text = Umukon dundədu əsəl bidʼərə
+# text[eng] = They are not at one place.
+1	Umukon	Umukon	NUM	_	NumType=Card	4	nsubj	_	Gloss=one.[NOM]
+2	dundədu	dundədu	NOUN	_	Case=Dat,Loc	4	obl	_	Gloss=earth-DAT,LOC
+3	əsəl	əsəl	PART	_	Polarity=Neg	4	advmod	_	Gloss=NEG-PST-PL
+4	bidʼərə	bidʼərə	VERB	_	Aspect=Imp|Number=Plur|Person=3|Tense=Past	0	root	_	Gloss=be-IPFV-CNG
+
+# sent_id = Evenki_grammar_4
+# text = Bi haːmị dụndəwə.
+# text[eng] = I know the land.
+1	Bi	bi	PRON	_	Case=Nom|Number=Sing|Person=1	2	nsubj	_	Gloss=PRO.1SG.[NOM]
+2	haːmị	haːmị	VERB	_	Number=Sing|Person=1|Tense=Aor	0	root	_	Gloss=know.[AOR]-1SG
+3	dụndəwə	dụndəwə	NOUN	_	Case=Acc	2	obj	_	Gloss=earth-ACC|SpaceAfter=No
+4	.	.	PUNCT	_	_	2	punct	_	_
+

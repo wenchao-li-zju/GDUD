@@ -1,0 +1,20 @@
+# sent_id = Mongolian_Khalkha_grammar_2
+# text = Ene nom-ïg Bat oxin-d ög-sön.
+# text[eng] = This book was given by Batu to the girl.
+1	Ene	ene	DET	_	PronType=Dem	2	det	_	_
+2	nom-ïg	nom	NOUN	_	Case=Acc	5	obj	_	_
+3	Bat	Bat	PROPN	_	Case=Nom	5	nsubj	_	_
+4	oxin-d	oxin	NOUN	_	Case=Dat	5	obl	_	_
+5	ög-sön	ög	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = Mongolian_Khalkha_grammar_3
+# text = Ene nom-ïg mart-san uu ci.
+# text[eng] = You forgot this book, didn’t you!
+1	Ene	ene	DET	_	PronType=Dem	2	det	_	_
+2	nom-ïg	nom	NOUN	_	Case=Acc	3	obj	_	_
+3	mart-san	mart	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Fin	0	root	_	_
+4	uu	uu	PART	_	PartType=Int	3	discourse	_	_
+5	ci	ci	PRON	_	Case=Nom|Number=Sing|Person=2	3	nsubj	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	3	punct	_	_
+

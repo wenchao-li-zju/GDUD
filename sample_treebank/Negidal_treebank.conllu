@@ -1,0 +1,27 @@
+# sent_id = negidal_grammar_1
+# text = naj dili-ni
+# text[eng] = the person's head
+1	naj	naj	NOUN	_	_	2	nmod	_	Gloss=person
+2	dili-ni	dili	NOUN	_	Number[psor]=Sing|Person[psor]=3	0	root	_	Gloss=head-PX.3SG
+
+# sent_id = negidal_grammar_2
+# text = naj dili-ŋgo-ni
+# text[eng] = a person's detached head
+1	naj	naj	NOUN	_	_	2	nmod	_	Gloss=person
+2	dili-ŋgo-ni	dili	NOUN	_	Deriv=Detached|Number[psor]=Sing|Person[psor]=3	0	root	_	Gloss=head-DET-PX.3SG
+
+# sent_id = negidal_grammar_3
+# text = bajan hutə-ʨi bi-ʨa-n
+# text[eng] = He had a lot of children.
+1	bajan	bajan	ADJ	_	_	2	amod	_	Gloss=many
+2	hutə-ʨi	hutə	NOUN	_	Deriv=Prop	3	nsubj	_	Gloss=offspring-PROP
+3	bi-ʨa-n	bi	VERB	_	Number=Sing|Person=3|Tense=Past	0	root	_	Gloss=be-PST-3SG
+
+# sent_id = negidal_grammar_4
+# text = bi suːn-mə-β təti-βka-kəl gun-ə-n
+# text[eng] = Dress it in my coat.
+1	bi	bi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nmod	_	Gloss=1SG
+2	suːn-mə-β	suːn	NOUN	_	Case=Acc|Number=Sing|Person=1|Poss=Yes	3	obj	_	Gloss=coat-ACC-PX.1SG
+3	təti-βka-kəl	təti	VERB	_	Mood=Imp|Voice=Cau	4	xcomp	_	Gloss=dress-CAUS-IMP
+4	gun-ə-n	gun	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	Gloss=say-NFUT-3SG
+

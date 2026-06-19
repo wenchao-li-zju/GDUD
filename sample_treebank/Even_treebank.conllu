@@ -1,0 +1,33 @@
+# sent_id = Even_grammar_2
+# text = tarit ecˇ i-je ha:mat-ja:Ãi “ehni!” go:n-e-m tarit
+# text[eng] = He [a big man] laughs, and then I say “no”.
+1	tarit	tarit	ADV	_	_	6	advmod	_	Gloss=then
+2	ecˇ	ecˇ	ADV	_	Deixis=Prox|Deriv=Aug	6	advmod	_	Gloss=PROX.QUAL-AUG
+3	i-je	i	PRON	_	Number=Sing|Person=3|PronType=Prs	6	nsubj	_	Gloss=3SG
+4	ha:mat-ja:Ãi	ha:mat-ja:Ãi	VERB	_	Deriv=Aug|VerbForm=Conv	6	advcl	_	Gloss=laugh-AUG.CVB
+5	“ehni!”	“ehni!”	PART	_	PartType=Foc|Polarity=Neg	6	discourse	_	Gloss=no
+6	go:n-e-m	go:n-e-m	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=NonPast	0	root	_	Gloss=say-NFUT-1SG
+7	tarit	tarit	ADV	_	_	6	advmod	_	Gloss=then
+
+# sent_id = Even_grammar_3
+# text = tarit tarak hat-la-n ecˇ i-ken kotle-kken ampa:r-kakam o.:-cˇa-l
+# text[eng] = Then next to that, they made a tiny little storage shed like this...
+1	tarit	tarit	ADV	_	_	8	advmod	_	Gloss=then
+2	tarak	tarak	DET	_	Deixis=Dist|PronType=Dem	4	det	_	Gloss=DIST
+3	hat-la-n	hat-la-n	NOUN	_	Case=Loc|Poss=3SG	8	obl	_	Gloss=base-LOC-POSS.3SG
+4	ecˇ	ecˇ	ADV	_	Deixis=Prox|Deriv=Dim	8	advmod	_	Gloss=PROX.QUAL-DIM
+5	i-ken	i-ken	PRON	_	Number=Plur|Person=3|PronType=Prs	8	nsubj	_	Gloss=3PL
+6	kotle-kken	kotle-kken	NOUN	_	Definite=Ind|Deriv=Dim	8	obj	_	Gloss=small-DIM.INDEF
+7	ampa:r-kakam	ampa:r-kakam	NOUN	_	Case=Acc|Definite=Ind|Deriv=Dim	8	obj	_	Gloss=storage.shed[R]-DIM.INDEF.ACC
+8	o.:-cˇa-l	o.:-cˇa-l	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	Gloss=make-PF.PTCP-PL
+
+# sent_id = Even_grammar_4
+# text = mo.lgo. kotle-cˇen ahikan-du kotlu:-kken kniga-w bo:-d-ni
+# text[eng] = The/a boy gave the small girl a small book.
+1	mo.lgo.	mo.lgo.	NOUN	_	Focus=Yes	6	nsubj	_	Gloss=boy
+2	kotle-cˇen	kotle-cˇen	ADJ	_	Definite=Def|Deriv=Dim	3	amod	_	Gloss=small-DIM.DEF
+3	ahikan-du	ahikan-du	NOUN	_	Case=Dat	6	iobj	_	Gloss=girl-DAT
+4	kotlu:-kken	kotlu:-kken	ADJ	_	Definite=Ind|Deriv=Dim	5	amod	_	Gloss=small[EMPH]-DIM.INDEF
+5	kniga-w	kniga-w	NOUN	_	Case=Acc	6	obj	_	Gloss=book-ACC
+6	bo:-d-ni	bo:-d-ni	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=NonPast	0	root	_	Gloss=give-NFUT-3SG
+
